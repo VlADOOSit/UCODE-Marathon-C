@@ -1,0 +1,5 @@
+#include "part_of_mx.h"
+
+void mx_printerr(const char *s) {
+  write(2, s, mx_strlen(s));
+}
