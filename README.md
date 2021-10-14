@@ -1,5 +1,4 @@
-# UCODE-Marathon-C-Sprints-00---11
-Tasks from Ucode (Only sprints!!!)
+# UCODE-Marathon
 
 Different usefull function on C lenguage)
 
