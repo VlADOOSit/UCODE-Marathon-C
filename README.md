@@ -1,6 +1,6 @@
 ﻿# UCODE-Marathon
 all tasks
 
-Different usefull function on C lenguage)
+Different useful function on C language)
 
 I am not responsible for your grades, please check the assignments for the best result  :) :) :)
