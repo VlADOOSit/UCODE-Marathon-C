@@ -5,7 +5,7 @@
 
 typedef struct s_list {
     void *data;
-    structs_list *next;
+    struct s_list *next;
 } t_list;
 
 t_list *mx_create_node(void *data);
